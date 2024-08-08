@@ -47,6 +47,10 @@
     border:none;
 }
 
+.foody{
+    width: 40%;
+}
+
 @media (max-width:750px){
     .footer-content{
         display:flex;
